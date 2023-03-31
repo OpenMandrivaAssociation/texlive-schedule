@@ -1,6 +1,6 @@
 Name:		texlive-schedule
 Version:	51805
-Release:	1
+Release:	2
 Summary:	Weekly schedules
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/schedule
