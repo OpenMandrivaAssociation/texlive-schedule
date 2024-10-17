@@ -3,7 +3,7 @@ Version:	51805
 Release:	2
 Summary:	Weekly schedules
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/schedule
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/schedule
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/schedule.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/schedule.doc.r%{version}.tar.xz
